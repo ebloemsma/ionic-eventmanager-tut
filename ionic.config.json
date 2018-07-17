@@ -1,0 +1,8 @@
+{
+  "name": "EventManagerTutorial",
+  "app_id": "9e90d718",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
